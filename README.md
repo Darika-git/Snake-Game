@@ -1,4 +1,4 @@
-#Snake game
+# Snake game
 
 It's the normal fun game that allows user to control the snake head.
 
@@ -8,7 +8,7 @@ Each time the dragon eats, it grows longer, your score goes up, and the game get
 
 The game keeps track of your score and challenges you to beat your high score.
 
-#Game Feature
+# Game Feature
 
 Customizable Appearance: The dragon's head is a large red circle with white eyes, black pupils, and a pink tongue. 
 
@@ -18,7 +18,9 @@ Gameplay Mechanics: Use the arrow keys to move the dragon up, down, left, or rig
 
 Avoid hitting the walls or your own tail. Each time the dragon eats food, it grows longer, your score increases, and the game speeds up.
 
-Score Tracking: The game displays your current score and high score. When the dragon collides with a wall or its tail, a "Game Over" message appears with your final score.
+Score Tracking: The game displays your current score and high score. 
+
+When the dragon collides with a wall or its tail, a "Game Over" message appears with your final score.
 
 Dynamic Food Items: Food appears in random colors, shapes, and positions, making the game unpredictable and challenging.
 
