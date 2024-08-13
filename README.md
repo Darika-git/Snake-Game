@@ -1,5 +1,5 @@
 "# Snake-Game"
-
+//set up screen and features of snake//
 import turtle
 import random
 import time 
