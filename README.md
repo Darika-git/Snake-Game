@@ -1,6 +1,6 @@
-# Snake game
+# Dragon game
 
-It's the normal fun game that allows user to control the snake head.
+It's the normal fun game that allows user to control the dragon's head.
 
 The goal is to move the dragon around the screen, avoiding walls and its own tail while collecting food. 
 
@@ -30,4 +30,10 @@ Food appears in random colors, shapes, and positions, making the game unpredicta
 
 ## Game Over Handling: 
 After a game over, the screen turns blue, showing your final score, and after a brief delay, you’re prompted to try again.
+
+# Credit
+Get sample from tik tok but we're developing that code by increase the speed, change background and also draw the dragon head.
+
+https://vt.tiktok.com/ZS28PLreU/
+
 
